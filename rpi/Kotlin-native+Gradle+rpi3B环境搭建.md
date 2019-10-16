@@ -4,7 +4,7 @@
 
 Intelli IDEA工具
 
-编译好的.so文件与.h文件，本文使用wiringpi库，使用bcm2835库同理，只是需要编译（编译链接）
+编译好的.so文件与.h文件，本文使用wiringpi库，使用bcm2835库同理，只是需要编译（[编译链接](<https://github.com/GhostMouse7369/book/blob/master/rpi/cmake%E7%BC%96%E8%AF%91bcm2835%E5%BA%93.md> )）
 
 
 
