@@ -14,7 +14,7 @@ bcm2835源代码:http://www.airspayce.com/mikem/bcm2835/
 
 ##### 导入bcm2835源代码
 
-![1571135793416](D:\资料\book\rpi\assets\1571135793416.png)
+![1571135793416](https://github.com/GhostMouse7369/book/blob/master/rpi/assets/1571135668096.png?raw=true)
 
 ##### cmake编译bcm2835库
 

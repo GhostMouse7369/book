@@ -32,7 +32,7 @@ Intelli IDEA工具
 
 导入.h文件到模块
 
-![1571192019740](D:\资料\book\rpi\assets\1571192019740.png)
+![1571192019740](https://github.com/GhostMouse7369/book/blob/master/rpi/assets/1571192019740.png?raw=true)
 
 配置def文件，指定需要的.h文件与.h文件路径
 
@@ -51,7 +51,7 @@ compilerOpts = -Isrc/nativeInterop/c/include
 
 导入.so文件到模块
 
-![1571198367624](D:\资料\book\rpi\assets\1571198367624.png)
+![1571198367624](https://github.com/GhostMouse7369/book/blob/master/rpi/assets/1571198367624.png?raw=true)
 
 ###### build.gradle.kts
 
@@ -167,7 +167,7 @@ $ gradle linkReleaseExecutableLinuxArm32Hf
 
 编译成功，在对应目录生成树莓派可执行文件
 
-![1571199734547](D:\资料\book\rpi\assets\1571199734547.png)
+![1571199734547](https://github.com/GhostMouse7369/book/blob/master/rpi/assets/1571199734547.png?raw=true)
 
 最后，拷贝到树莓派推荐用root权限运行
 
